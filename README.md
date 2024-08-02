@@ -180,6 +180,35 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/519f082b-d067-44db-a6e2-9083c773c635)
 
+## Code: 6G *(Nested Do While Loop)*
+```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 6G
+//23070123124
+#include <iostream>
+int main() {
+    int i = 1; 
+    do {
+        int j = 1;  
+        do {
+            std::cout << i * j << "\t";  
+            ++j;  
+        } while (j <= 10);
+
+        std::cout << std::endl;  
+        ++i;  
+    } while (i <= 10);
+
+    return 0;
+}
+```
+
+## Output:
+
+![image](https://github.com/user-attachments/assets/65703514-338d-4db0-93d8-3f142570fb14)
+
+
 
 
 
