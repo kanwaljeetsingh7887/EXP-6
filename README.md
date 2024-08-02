@@ -1,10 +1,10 @@
 # EXP-6
 
 ## Aim:
-To study and implement C++ decision making statements.
+**To study and implement C++ decision making statements.**
 
 ## Software:
-Microsoft VSCode
+`Microsoft VSCode`
 
 ## Theory:
 Decision making statements in C++ are the conditional statements that are used to execute codes based on some given conditions. These are crucial for controlling the flow of a program and making it responsive to different inputs
@@ -117,8 +117,9 @@ int main(){
     
 } 
 ```
-Output:
-image
+## Output:
+![Screenshot 2024-08-02 094723](https://github.com/user-attachments/assets/9a5ea4ef-a38f-4fe3-938d-81be208c79ee)
 
-Conclusion:
+
+## Conclusion:
 I learnt about the different decision making statements of C++ and performed tasks based on those conditions.
