@@ -150,7 +150,7 @@ int main()
 
 ![image](https://github.com/user-attachments/assets/652b2c6d-4df1-4ac8-b750-c4976dd5adfd)
 
-## Code: *(Nested While Loop)*
+## Code: 6F *(Nested While Loop)*
 ```
 //KANWALJEET SINGH
 //ENTC B2
