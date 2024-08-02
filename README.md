@@ -91,7 +91,7 @@ int main()
 ```
 //KANWALJEET SINGH
 //ENTC B2
-//EXP 5D
+//EXP 6D
 //23070123124
 
 #include<iostream>
@@ -119,6 +119,71 @@ int main(){
 ```
 ## Output:
 ![Screenshot 2024-08-02 094723](https://github.com/user-attachments/assets/9a5ea4ef-a38f-4fe3-938d-81be208c79ee)
+
+## Code: 6E *(Nested For Loop)*
+```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 6E
+//23070123124
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a[3][3],s=0,i,j;
+    for(i=0;i<3;i++)
+    {
+        for(j=0;j<3;j++)
+        {
+            cout<<"Enter any number for index number: "<<i<<j;
+            cin>>a[i][j];
+            s=s+a[i][j];
+        }
+    }
+    cout<<"The sum of elements of matrix is:"<<s;
+    return 0;
+}
+
+```
+## Output:
+
+![image](https://github.com/user-attachments/assets/652b2c6d-4df1-4ac8-b750-c4976dd5adfd)
+
+## Code: *(Nested While Loop)*
+```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 6F
+//23070123124
+#include<iostream>
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i = 1;
+    while (i <= 5) {
+        int j = 1;
+        while (j <= 5) {
+            cout << "* ";
+            ++j;
+        }
+        cout << endl;
+        ++i;
+    }
+
+    return 0;
+}
+```
+
+## Output:
+
+![image](https://github.com/user-attachments/assets/519f082b-d067-44db-a6e2-9083c773c635)
+
+
+
+
+
 
 
 ## Conclusion:
