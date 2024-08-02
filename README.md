@@ -12,7 +12,7 @@ Decision making statements in C++ are the conditional statements that are used t
 **Types of Decision-Making Statements:**
 `if Statement`: Executes a block of code if a specified condition is true.
 `if-else Statement`: Provides an alternative block of code to execute if the condition is false.
-`Switch Statement`: Allows a variable to be tested for equality against a list of values. Each value is called a "case," and the variable is compared with each case value.
+`Switch Statement`: Allows a variable to be tested for equality against a list of values. Each value is called a "`case`," and the variable is compared with each case value.
 `Nested if-else`: You can nest if-else statements within each other for more complex conditions.
 
 ## Code: 6A
