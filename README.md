@@ -15,11 +15,11 @@ Decision making statements in C++ are the conditional statements that are used t
 `Switch Statement`: Allows a variable to be tested for equality against a list of values. Each value is called a "`case`," and the variable is compared with each case value.
 `Nested if-else`: You can nest if-else statements within each other for more complex conditions.
 
-## Code: 6A
+## Code: 6A *(for loop)*
 ```
 //KANWALJEET SINGH
 //ENTC B2
-//EXP 5A
+//EXP 6A
 //23070123124
 #include<iostream>
 using namespace std;
@@ -36,11 +36,11 @@ int main(){
 ![Screenshot 2024-08-02 094131](https://github.com/user-attachments/assets/fdae2707-a1c3-4b87-ada9-e12f85ad62ef)
 
 
-## Code: 6B
+## Code: 6B *(while loop)*
 ```
 //KANWALJEET SINGH
 //ENTC B2
-//EXP 5B
+//EXP 6B
 //23070123124
 #include<iostream>
 using namespace std;
@@ -63,11 +63,11 @@ int main()
 ![Screenshot 2024-08-02 094334](https://github.com/user-attachments/assets/e83d56bf-ca3e-4834-ae46-ba2a7a170054)
 
 
-## Code: 6C
+## Code: 6C *(do while loop)*
 ```
 //KANWALJEET SINGH
 //ENTC B2
-//EXP 5C
+//EXP 6C
 //23070123124
 #include<iostream> 
 using namespace std;
@@ -87,7 +87,7 @@ int main()
 ![Screenshot 2024-08-02 094545](https://github.com/user-attachments/assets/b1a7f249-4c10-400d-b8f6-09f7edc5b07d)
 
 
-## Code: 6D
+## Code: 6D *(for while loop)*
 ```
 //KANWALJEET SINGH
 //ENTC B2
